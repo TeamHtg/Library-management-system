@@ -1,12 +1,6 @@
-// Java Program to Illustrate book Class that
-// takes Input from the books and related information
-
 package College;
-
-// Importing required classes
 import java.util.Scanner;
 
-// Class
 public class book {
 
 	// Class data members
